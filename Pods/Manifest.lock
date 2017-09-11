@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AMap3DMap-NO-IDFA (5.2.1):
+    - AMapFoundation-NO-IDFA (~> 1.3)
+  - AMapFoundation-NO-IDFA (1.4.0)
+  - Kingfisher (3.10.3)
+  - LLCycleScrollView (1.3.2):
+    - Kingfisher
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5.0)
+  - AMap3DMap-NO-IDFA (~> 5.2.1)
+  - LLCycleScrollView (~> 1.3.2)
+  - SnapKit (~> 3.2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AMap3DMap-NO-IDFA: ce3c57a3e0bd65ae09040ce55055b2020ab47783
+  AMapFoundation-NO-IDFA: d1ba541a56737c2048115a745b1dfcbe9901c248
+  Kingfisher: a0ac82dc5bcf0388dd74b294cf2cc13730c63436
+  LLCycleScrollView: fb5e6f5327b9133b8b46cc0d1635c80e56637dde
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: ce07cd20027d9dd6a410d9560dbaa4147e118567
+
+COCOAPODS: 1.2.1

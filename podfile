@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'YXWang' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for YXWang
+
+  target 'YXWangTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'YXWangUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+pod 'Alamofire', '~> 4.5.0'
+pod 'AMap3DMap-NO-IDFA', '~> 5.2.1'
+pod 'SnapKit', '~> 3.2.0'
+pod 'LLCycleScrollView', '~> 1.3.2'
+end

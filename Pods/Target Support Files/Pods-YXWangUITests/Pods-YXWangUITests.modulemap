@@ -1,0 +1,6 @@
+framework module Pods_YXWangUITests {
+  umbrella header "Pods-YXWangUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

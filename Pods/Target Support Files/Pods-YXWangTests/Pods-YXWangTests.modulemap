@@ -1,0 +1,6 @@
+framework module Pods_YXWangTests {
+  umbrella header "Pods-YXWangTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
